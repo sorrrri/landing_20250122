@@ -362,7 +362,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // 아이콘 선택 했을 때
     const selectedTabTypeIcons = () => {
       tabTypeMixed.closest("ul").classList.remove("mixed")
-      device.style.setProperty("--tabMenuBackground", `url(/images/subs/mobile_app/style_a.png)`);
+      device.style.setProperty("--tabMenuBackground", `url(./images/subs/mobile_app/style_a.png)`);
       selectTabStyle[0].checked = true;
       selectTabStyle.forEach(selector => {
         const tabMenuBackground = `url(${selector.nextElementSibling.querySelector('img').src})`
@@ -380,7 +380,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // 아이콘+메뉴명 선택 했을 때
     const selectedTabTypeMixed = () => {
-      device.style.setProperty("--tabMenuBackground", `url(/images/subs/mobile_app/style_a_2.png)`);
+      device.style.setProperty("--tabMenuBackground", `url(./images/subs/mobile_app/style_a_2.png)`);
       tabTypeMixed.closest("ul").classList.add("mixed")
       selectTabStyle[0].checked = true;
       selectTabStyle.forEach(selector => {

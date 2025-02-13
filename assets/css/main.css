@@ -82,7 +82,7 @@ section {
 
 .naver-modoo .section-main {
   flex-direction: column;
-  background: url(/images/event/naver_modoo/main_bg.png) no-repeat center / cover;
+  background: url(./images/event/naver_modoo/main_bg.png) no-repeat center / cover;
   padding-top: 0;
   padding-bottom: 30vh;
   position: relative;
@@ -297,7 +297,7 @@ section {
 }
 
 .naver-modoo .section-spec {
-  background: url(/images/event/naver_modoo/spec_bg.png) no-repeat center / cover;
+  background: url(./images/event/naver_modoo/spec_bg.png) no-repeat center / cover;
 }
 
 .naver-modoo .section-spec h2 {
@@ -481,7 +481,7 @@ section {
 }
 
 .naver-modoo .section-banner {
-  background: #00c73c url(/images/event/naver_modoo/banner_bg.png) center no-repeat;
+  background: #00c73c url(./images/event/naver_modoo/banner_bg.png) center no-repeat;
   color: white;
   padding: 1.5rem 0;
   position: sticky;
@@ -504,7 +504,7 @@ section {
 }
 
 .naver-modoo .section-free {
-  background: black url(/images/event/naver_modoo/free_bg.png) center no-repeat;
+  background: black url(./images/event/naver_modoo/free_bg.png) center no-repeat;
   color: white;
 }
 
@@ -541,7 +541,7 @@ section {
 }
 
 .naver-modoo .section-pricing {
-  background: url(/images/event/naver_modoo/pricing_bg.png) repeat-y center / cover;
+  background: url(./images/event/naver_modoo/pricing_bg.png) repeat-y center / cover;
   color: white;
 }
 
@@ -554,7 +554,7 @@ section {
 }
 
 .naver-modoo .section-customize {
-  background: url(/images/event/naver_modoo/customize_bg.png) no-repeat center / cover;
+  background: url(./images/event/naver_modoo/customize_bg.png) no-repeat center / cover;
   color: white;
   padding: 10vh 0;
 }
@@ -565,7 +565,7 @@ section {
 }
 
 .naver-modoo .section-domain {
-  background: url(/images/event/naver_modoo/domain_bg.png) no-repeat center / cover;
+  background: url(./images/event/naver_modoo/domain_bg.png) no-repeat center / cover;
   color: white;
   padding: 10vh 0;
 }
@@ -581,7 +581,7 @@ section {
 }
 
 .naver-modoo .section-consulting {
-  background: url(/images/event/naver_modoo/consulting_bg.png) no-repeat center / cover;
+  background: url(./images/event/naver_modoo/consulting_bg.png) no-repeat center / cover;
   color: white;
 }
 
@@ -716,7 +716,7 @@ section {
 }
 
 .naver-modoo .section-success {
-  background: #0066ff url(/images/event/naver_modoo/success.png) no-repeat center / contain;
+  background: #0066ff url(./images/event/naver_modoo/success.png) no-repeat center / contain;
   color: white;
 }
 

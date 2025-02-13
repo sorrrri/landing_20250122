@@ -61,7 +61,7 @@
   transition: 0.25s;
 }
 .content-event .section_footer {
-  background: #2bacfe url(/images/event/20220628/woman.png) center no-repeat;
+  background: #2bacfe url(./images/event/20220628/woman.png) center no-repeat;
   background-size: auto;
   padding: 8rem 0;
 }
@@ -202,7 +202,7 @@
   display: none;
 }
 .event_clickn .section_gradient {
-  background: url("/images/event/20220628/bg_gradient.png") center top no-repeat;
+  background: url("./images/event/20220628/bg_gradient.png") center top no-repeat;
   align-items: flex-end;
   margin-top: 100vh;
   min-height: 220vh;
@@ -330,7 +330,7 @@
   max-width: 100%;
 }
 .event_clickn .section_steps .computer {
-  background: url("/images/event/20220628/computer.png") no-repeat;
+  background: url("./images/event/20220628/computer.png") no-repeat;
   width: 440px;
   height: 389px;
   position: relative;
@@ -401,7 +401,7 @@
   transition-timing-function: linear !important;
 }
 .event_clickn .section_skins .skins img {
-  background: url("/images/event/20220628/browser_top.jpg") no-repeat top center;
+  background: url("./images/event/20220628/browser_top.jpg") no-repeat top center;
   background-size: 100%;
   max-width: 300px;
   border-radius: 0.5rem;
@@ -519,7 +519,7 @@
   max-height: calc(100vh - 60px);
   padding: 16rem 0 0;
   position: relative;
-  background: #161237 url(/images/event/withhiselling/bg_space_1.jpg) no-repeat center bottom;
+  background: #161237 url(./images/event/withhiselling/bg_space_1.jpg) no-repeat center bottom;
   z-index: 1;
   background-size: 100%;
   overflow: hidden;
@@ -744,7 +744,7 @@
   color: #645c98;
 }
 .event_hiselling .section_benefits {
-  background: #161237 url(/images/event/withhiselling/bg_space_2.jpg) no-repeat center bottom;
+  background: #161237 url(./images/event/withhiselling/bg_space_2.jpg) no-repeat center bottom;
 }
 .event_hiselling .section_benefits small {
   color: #ada9c9;
